@@ -16,7 +16,7 @@ The objective is to train the model to behave like an AI astrologer that can:
 
 ## Project Structure
 
-```
+```text
 Vedaz-Assignment/
 │
 ├── dataset/
